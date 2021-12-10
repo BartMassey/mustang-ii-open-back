@@ -8,7 +8,7 @@ can feed to your laser cutter as I did.
 
 ![Mustang II open back](mustang-ii-open-back.jpg)
 
-![Mustang II open back design](amp-back-v2.pdf)
+![Mustang II open back design](amp-back-v2.png)
 
 **Note:** This project is actually several years old, and I
 can't vouch for its current status: I *think* this will
