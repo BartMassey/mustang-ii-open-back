@@ -3,12 +3,12 @@ Bart Massey 2021
 
 Here is FreeCAD source for a laser-cuttable open back I
 designed for the Fender Mustang II guitar amp. Also included
-are PDF and DXF files; hopefully this will be something you
+are SVG, PDF and DXF files; hopefully this will be something you
 can feed to your laser cutter as I did.
 
 ![Mustang II open back](mustang-ii-open-back.jpg)
 
-![Mustang II open back design](amp-back-v2.png)
+![Mustang II open back design](amp-back-v2-Page.png)
 
 **Note:** This project is actually several years old, and I
 can't vouch for its current status: I *think* this will
