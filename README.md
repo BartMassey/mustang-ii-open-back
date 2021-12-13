@@ -28,11 +28,12 @@ Mustang II is a 40W transistor amp with a reasonable set of
 built in digital effects and amp/cabinet emulations.
 
 The biggest drawback of the Mustang II that it just doesn't
-sound as good as the Mustang III. A friend and I were
-playing with this, and concluded that replacing the closed
-Mustang II back with a Mustang III-style open back and
-replacing the Mustang II speaker with the model used in the
-Mustang III improved the sound of the Mustang II *a lot.*
+sound as good as the Mustang III. My amp/speaker guru Mike
+Haertel and I were playing with this, and concluded that
+replacing the closed Mustang II back with a Mustang
+III-style open back and replacing the Mustang II speaker
+with the model used in the Mustang III improved the sound of
+the Mustang II *a lot.*
 
 There's a theory going around that the modeling software in
 the Mustang II and Mustang III are identical, and that thus
@@ -48,8 +49,8 @@ these days.
 ## How To Do This
 
 You are probably planning to upgrade the speaker
-(recommended).  The Mustang III apparently uses a Celestion
-G12T-H100 (8Ω), and that definitely sounds really good with
+(recommended).  The Mustang III uses a Celestion
+G12T-100 (8Ω), and that definitely sounds really good with
 the modeling functions in my Mustang II. The G12T is about
 US$120 new and about half that used (as of this writing). I
 also have tried an Eminence Cannabis Rex 12", which is
@@ -105,6 +106,13 @@ priced. That said, any #6×¼″ wood screws will probably work
 OK.
 
 Now enjoy your new setup!
+
+## Acknowledgments
+
+This project was made possible through the help and support
+of Mike Haertel. Mike suggested the plan, tracked down the
+speaker, helped with the installations, and tested
+everything with me.
 
 ## Licensing
 
